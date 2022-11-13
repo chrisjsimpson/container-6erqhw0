@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Nov 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- most simple uploads ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.1 (Sun Nov 13 2022)
 
 :tada: This release contains work from a new contributor! :tada:
